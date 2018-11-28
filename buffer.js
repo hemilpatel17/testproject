@@ -1,2 +1,2 @@
 console.log("string".length);
-console.log("test".lenght);
+console.log("test".length);
